@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=FFD94D&fontColor=ffffff&text=🚀%20Boomi%20Yu%20-%20Full%20Stack%20Developer&height=300&fontSize=45&desc=Exploring%20the%20World%20of%20Web%20Development&fontAlignY=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE17B,FFD94D,F5A962&height=280&section=header&text=🌼%20Boomi%20Yu&fontSize=45&fontColor=473C33&animation=fadeIn&desc=Frontend%20Lover%20|%20Full%20Stack%20Explorer&descSize=20&descAlignY=65" />
 </p>
 
 <!-- 간단한 인사말 -->
